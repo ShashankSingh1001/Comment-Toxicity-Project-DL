@@ -1,0 +1,7 @@
+pandas 
+numpy
+tensorflow
+seaborn 
+scikit-learn
+gradio 
+jinja2
